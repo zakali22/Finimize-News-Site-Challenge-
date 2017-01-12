@@ -9,3 +9,5 @@ Once the user is convinced and would like to sign up for a newsletter, he/she do
 As well as having other article grids at the bottom of each article page to lead to another story.
 
 And the ability to share the article on facebook, twitter and linkedin.
+
+# finimize.html is the homepage
