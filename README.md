@@ -5,3 +5,7 @@ As part of the process of redesigning the finimize news site, I took into accoun
 So I divided each news piece into chunks of grids of varying sizes, allowing the user to know from just the title and the image (which I put as background for each news grid) what the news article is about.
 
 Once the user is convinced and would like to sign up for a newsletter, he/she doesn't need to look for the signup button. I placed it visibly at the right hand corner.
+
+As well as having other article grids at the bottom of each article page to lead to another story.
+
+And the ability to share the article on facebook, twitter and linkedin.
