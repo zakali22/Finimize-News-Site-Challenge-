@@ -1,0 +1,139 @@
+.jumbotron {
+	background-color: transparent;
+}
+
+.jumbotron img {
+	margin-left: 80px;
+}
+
+
+.jumbotron .container-fluid {
+	text-align: center;
+}
+
+.jumbotron .container-fluid button {
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+	font-size: 20px;
+}
+
+.author {
+	float: left;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.header-img {
+	background-image: url("http://cdn-r1.unilad.co.uk/wp-content/uploads/2016/05/GettyImages-53402766.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+	margin-top: -28px;
+}
+
+.header-img h1 {
+	font-family: 'Dosis', sans-serif;
+	font-size: 80px;
+	color: black;
+	text-transform: uppercase;
+	border: 2px solid white;
+	background-color: white;
+	width: 40%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 120px;
+}
+
+.main-article {
+	margin-top: 70px;
+}
+
+.main-article h3{
+	text-align: center;
+	font-family: 'Arima Madurai', cursive;
+	font-size: 32px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.main-article p {
+	text-align: left;
+	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+	line-height: 2em;
+}
+
+span {
+	color: #75caeb;
+}
+
+hr {
+	margin-top: 50px;
+	width: 50%;
+	border-color:  black;
+}
+
+.footer {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.footer h3 {
+	padding-bottom: 20px;
+}
+
+.footer i {
+	font-size: 30px;
+	padding-right: 20px;
+}
+
+.footer .fa-facebook-official {
+	color: #4867aa;
+}
+
+.footer .fa-twitter {
+	color: #1da1f2;
+}
+
+.footer .fa-linkedin {
+	color: #0177b5;
+}
+
+.more-news {
+	height: 500px;
+
+}
+
+.more-news .more1 {
+	 background-image: url("http://static2.businessinsider.com/image/52667a266bb3f7377c05924c-1200-800/mapfocuselectric_07_hr.jpg");
+	 border-right: 4px solid white;
+}
+
+.more-news .more2 {
+	background-image: url("apple-logo.jpg");
+	
+}
+
+.more-news .more1, .more-news .more2 {
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.more-news h3 {
+	font-family: 'Dosis', sans-serif;
+	font-size: 40px;
+	color: black;
+	text-transform: uppercase;
+	border: 2px solid white;
+	background-color: white;
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

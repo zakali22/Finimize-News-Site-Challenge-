@@ -1,0 +1,104 @@
+.jumbotron {
+	background-color: transparent;
+}
+
+.jumbotron img {
+	margin-left: 80px;
+}
+
+
+.jumbotron .container-fluid {
+	text-align: center;
+}
+
+.jumbotron .container-fluid button {
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+	font-size: 20px;
+}
+.main {
+	margin-top: -30px;
+	height: 500px;
+}
+
+
+.img1 h2, .img2 h2, .img3 h6, .img4 h6, .img5 h2 {
+	text-align: center;
+	font-size: 60px;
+	border: 2px solid black;
+	margin: 0 auto;
+	margin-top: 180px;
+	font-family: 'Dosis', sans-serif;
+	color: black;
+	background-color: white;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-weight: lighter;
+}
+
+.img1 h2 {
+	width: 70%;
+}
+
+.img2 h2 {
+	width: 50%;
+}
+
+.img3 h6 {
+	width: 50%;
+	margin-top: 140px;
+}
+
+.img4 h6 {
+	width: 50%;
+	margin-top: 110px;
+}
+
+.img5 h2 {
+	width: 40%;
+}
+
+.img1 {
+	background-image: url("http://specials-images.forbesimg.com/imageserve/39135713/960x0.jpg?fit=scale");
+}
+
+.img2 {
+	background-image: url("http://static2.businessinsider.com/image/52667a266bb3f7377c05924c-1200-800/mapfocuselectric_07_hr.jpg");
+}
+
+.img3 {
+	background-image: url("http://cdn-r1.unilad.co.uk/wp-content/uploads/2016/05/GettyImages-53402766.jpg");
+}
+
+.img4 {
+	background-image: url("https://s.yimg.com/uu/api/res/1.2/x2oHR1wnC1DDrEUn042zwg--/aD02ODM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-HKG-Hkg10242946-1-1-0.jpg");
+}
+
+.img5 {
+	background-image: url("apple-logo.jpg");
+}
+
+.img1, .img2, .img3, .img4, .img5 {
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+	filter: brightness(70%);
+	transition: filter, 0.5s, ease-in-out;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.img1:hover, .img2:hover, .img3:hover, .img4:hover, .img5:hover {
+	filter: brightness(100%);
+}
+
+.row button {
+	font-size: 25px;
+	margin-top: 40px;
+	width: 30%;
+	margin-bottom: 30px;
+}
